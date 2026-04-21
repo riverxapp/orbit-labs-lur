@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Starter",
-  description: "A blank starter page. Ready to build.",
+  title: "Chirag Dodiya | Senior Software Engineer",
+  description: "Professional portfolio of Chirag Dodiya, a senior software engineer building scalable, high-performance web applications with modern technologies.",
 };
 
 export default function RootLayout({
